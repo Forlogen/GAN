@@ -1,5 +1,5 @@
 
-#### cource link: https://github.com/lzhbrian/arbitrary-text-to-image-papers.git 
+#### source link: https://github.com/lzhbrian/arbitrary-text-to-image-papers.git 
 
 # arbitrary-text-to-image-papers
 
